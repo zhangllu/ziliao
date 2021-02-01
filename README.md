@@ -1,6 +1,6 @@
-## MBA联考、管理类联考逻辑历年真题
+## MBA联考逻辑历年真题
 
-[1997逻辑真题](https://github.com/zhangllu/ziliao/blob/master/1997%E5%B9%B410%E6%9C%88%E9%80%BB%E8%BE%91%E7%9C%9F%E9%A2%98)
+[19971月逻辑真题](https://github.com/zhangllu/ziliao/blob/master/1997%E5%B9%B410%E6%9C%88%E9%80%BB%E8%BE%91%E7%9C%9F%E9%A2%98)
 
 [1997年10月逻辑真题](https://github.com/zhangllu/ziliao/blob/master/1997%E5%B9%B410%E6%9C%88%E9%80%BB%E8%BE%91%E7%9C%9F%E9%A2%98)
 
@@ -47,6 +47,8 @@
 
 [2008年10月逻辑真题](https://github.com/zhangllu/ziliao/blob/master/2008%E5%B9%B410%E6%9C%88%E9%80%BB%E8%BE%91%E7%9C%9F%E9%A2%98)
 
+## 管理类联考逻辑历年真题
+
 [2009年1月逻辑真题](https://github.com/zhangllu/ziliao/blob/master/2009%E5%B9%B41%E6%9C%88%E9%80%BB%E8%BE%91%E7%9C%9F%E9%A2%98)
 
 [2009年10月逻辑真题](https://github.com/zhangllu/ziliao/blob/master/2009%E5%B9%B410%E6%9C%88%E9%80%BB%E8%BE%91%E7%9C%9F%E9%A2%98)
@@ -73,6 +75,7 @@
 
 [2014年10月逻辑真题](https://github.com/zhangllu/ziliao/blob/master/2014%E5%B9%B410%E6%9C%88%E9%80%BB%E8%BE%91%E7%9C%9F%E9%A2%98)
 
+## 近年逻辑历年真题
 
 [2015年逻辑真题](https://github.com/zhangllu/ziliao/blob/master/2015%E5%B9%B4%E9%80%BB%E8%BE%91%E7%9C%9F%E9%A2%98)
 
